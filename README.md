@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandesh-PG
 - 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... Full Stack 
+- 🌱 I’m currently learning ... Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Sandeshsandy783@gmail.com
 
