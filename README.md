@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Codex](https://github.com/Sandesh-PG/CodeX)
 
-- 🌱 I’m currently learning **React,Nextjs**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **sandeshpg07@gmail.com**
 
