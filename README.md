@@ -14,7 +14,6 @@
 <a href="https://codepen.io/sandesh-pg" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="40" alt="codepen logo"  /></a>
 <a href="https://www.linkedin.com/in/sandesh-pg-53593b292/" target="blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a>
 <a href="https://stackoverflow.com/users/19511468" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111628.png" alt="19511468" height="30" width="40" /></a>
-
 <a href="https://instagram.com/sandesh._.06" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" height="40" alt="javascript logo"  /></a>
 </p>
 
