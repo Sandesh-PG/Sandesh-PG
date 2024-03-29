@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandesh-pg&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh-pg" /> </p>
 
-- 🔭 I’m currently working on [GPT-3!](https://sandesh-pg.github.io/GPT-3/)
+- 🔭 I’m currently working on [Next JS](https://github.com/Sandesh-PG/NextJS_Dashboard)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
