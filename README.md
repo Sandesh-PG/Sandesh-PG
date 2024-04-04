@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Next JS](https://github.com/Sandesh-PG/NextJS_Dashboard)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **DATA VISUALIZATION**
 
 - 📫 How to reach me **sandeshpg07@gmail.com**
 
