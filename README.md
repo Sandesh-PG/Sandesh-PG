@@ -9,10 +9,6 @@
 
 - 📫 How to reach me **sandeshpg07@gmail.com**
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sandesh%20p%20gurappanavar" target="blank">
