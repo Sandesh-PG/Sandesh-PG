@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" style="margin-right: 10px;"/>
+        <img src="https://imgs.search.brave.com/cwFVUV4jOR8BbY29nmBzopLhRFhJ9Y1l7GlNDwqGqBE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE3NjQ5MmJkNzNh/NGFmNWM1ZDRmYjku/cG5n" alt="bootstrap" width="50" height="50" style="margin-right: 10px;"/>
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="50" height="50" style="margin-right: 10px;"/>
