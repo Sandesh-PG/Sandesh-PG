@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sandesh P Gurappanavar</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandesh-pg&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh-pg" /> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/Sandesh-PG/Lost_and_Found_RIT">LostNFound-RIT</a> in collab with my friends
-
-- 🌱 I’m currently exploring the Domains of AI
+- 🔭 I’m currently working on <a href="https://github.com/Sandesh-PG/Sportz">A real-time live sports scores & commentary platform — built with Node.js, Express, PostgreSQL, WebSockets, and secured with Arcjet.</a> in collab with my friends
 
 - 📫 How to reach me **sandeshpg07@gmail.com**
 
