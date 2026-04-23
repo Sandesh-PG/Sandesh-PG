@@ -16,7 +16,7 @@
 <table>
 <tr>
 <td><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40"/></td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></td>
