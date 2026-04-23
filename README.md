@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Sandesh-PG">
-    <img src="assets/banner.png" alt="banner" width="100%" height="350"/>
+    <img src="assets/GH_BANNER1.png" alt="banner" width="100%" height="350"/>
   </a>
 </p>
 
