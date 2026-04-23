@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/GH_BANNER1.png" alt="banner" width="100%" height="300"/>
+  <img src="assets/GH_BANNER1.png" alt="banner" width="100%" height="400"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandesh-pg&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh-pg" /> </p>
